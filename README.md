@@ -4,7 +4,7 @@
 The Project basically aims to provide a stimulation of driverless vehivle in virtual environment i.e. in the game GTA5. The vehicle will run on its own, will detect the obstacles coming in its way( trees, lampposts, people etc) and will save itself from colliding with them.
 
 
-# The Self Driving Car GTA5 module is been divided into 3 parts: 
+# The Self Driving Vehicle GTA5 module is been divided into 3 parts: 
 ##  1. Object Detection Module 
 ##  2. Model Training Module 
 ##  3. Lane detection Module 
